@@ -15,6 +15,7 @@ Baseado nas especulações sobre um possível novo time para Neymar, desenvolvi 
 
 ## 🚀 Resultados
 O vídeo apresenta Neymar como novo reforço do Palmeiras, criando um cenário envolvente e despertando grande expectativa entre os torcedores. A produção combina narrativa impactante, imagens realistas e elementos dinâmicos para transmitir a emoção de um anúncio oficial.
+
 Link Do Vídeo: (https://www.youtube.com/watch?v=Lq5iuJ0WedM)
 
 ## 💭 Reflexão (Opcional)
