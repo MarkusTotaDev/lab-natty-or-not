@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Verde é a Cor do Sonho: Neymar no Palestra.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse vídeo mostra uma apresentação do Neymar no Palmeiras, utilizando inteligência artificial, inspirado nas especulações do mercado da bola.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa [ChatGPT](https://chatgpt.com/) para criação e revisão de roteiros.
+- IA Generativa [NaturalReader](https://www.naturalreaders.com/) para síntese de voz.
+- IA Generativa [Grok](https://x.ai/) para geração de imagens.
+- IA Generativa [HailuoAI](https://hailuoai.video/) para dar vida e movimento às imagens.
+- Software CapCut para edição e finalização do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Baseado nas especulações sobre um possível novo time para Neymar, desenvolvi este vídeo como parte do meu projeto. O processo começou com a criação do roteiro, elaborado com o auxílio do ChatGPT para garantir coesão e impacto na narrativa. Em seguida, utilizei o Grok para gerar imagens realistas do jogador. Para complementar, sintetizei a narração no NaturalReader, trazendo mais autenticidade ao conteúdo. Depois, dei movimento e vida às imagens por meio do Hailuo AI. Para enriquecer o vídeo, busquei vídeos de highlights do Neymar no YouTube, agregando mais conteúdo visual. Por fim finalizei o projeto com a edição completa no CapCut, unindo todos os elementos de forma dinâmica e profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo apresenta Neymar como novo reforço do Palmeiras, criando um cenário envolvente e despertando grande expectativa entre os torcedores. A produção combina narrativa impactante, imagens realistas e elementos dinâmicos para transmitir a emoção de um anúncio oficial.
+Link Do Vídeo: (https://www.youtube.com/watch?v=Lq5iuJ0WedM)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Desenvolver este projeto foi uma experiência muito enriquecedora, pois despertou minha curiosidade e interesse pelas IAs generativas. O processo me tornou mais intuitivo e motivado a explorar ainda mais as possibilidades que essa tecnologia oferece, ampliando meu desejo de aprender e aprofundar meus conhecimentos na área.
